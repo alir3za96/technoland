@@ -23,3 +23,4 @@
 8. **تکنیک Single Page Application (SPA)**: تمام وبسایت به صورت یک برنامه وب تک صفحه‌ای طراحی شده است که باعث می‌شود تجربه کاربری سریع‌تر و روان‌تر باشد.
 
 مشاهده وبسایت: https://technoland-shop.ir
+پنل ادمین: https://technoland-shop.ir/admin
